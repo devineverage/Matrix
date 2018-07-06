@@ -1,0 +1,7 @@
+Devin Everage 
+
+To compile both Matrix and p1: $ make p1 or $ make all
+To run p1: $ ./p1
+ 
+The output calls for p1 were commented out so that a bunch of things didn't pop up
+on user's terminal

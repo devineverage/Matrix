@@ -1,0 +1,12 @@
+Everage-Devin-p1:
+total 260
+-rw-r--r--. 1 ugrad    259 Sep 19 23:46 Makefile
+-rw-r--r--. 1 ugrad   7995 Sep 19 23:45 Matrix.cpp
+-rw-r--r--. 1 ugrad   3554 Sep 19 23:45 Matrix.h
+-rw-r--r--. 1 ugrad 105208 Sep 19 23:46 Matrix.o
+-rwxr-xr-x. 1 ugrad  89652 Sep 19 23:46 p1
+-rw-r--r--. 1 ugrad   1285 Sep 19 23:45 p1.cpp
+-rw-r--r--. 1 ugrad  42808 Sep 19 23:46 p1.o
+-rw-r--r--. 1 ugrad    203 Sep 19 23:49 README
+-rw-r--r--. 1 ugrad      0 Sep 19 23:50 rec58202
+/home/ugrads/everage/Everage-Devin-p1:/home/work/cs1730a
